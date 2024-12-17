@@ -26,8 +26,10 @@ author:
 # logo: 
 
 description: >-
-StrangeLand is an open-source VR research platform that explores interactions between people and technologies like robots and self-driving cars in shared spaces.
-url: "davidgoedicke.info" 
+StrangeLand is an open-source VR research platform
+that explores interactions between people and 
+technologies like robots and self-driving cars in shared spaces.
+url: 
 
 theme: minima
 
@@ -40,8 +42,6 @@ header_pages:
 
 
 minima:
-  # Minima skin selection.
-  # Available skins are:
   # classic	           Default, light color scheme.
   # dark	             Dark variant of the classic skin.
   # auto	             Adaptive skin based on the default classic and dark skins.
@@ -51,31 +51,3 @@ minima:
   skin: auto
 
 
-
-
-
-minima:
-  social_links:
-   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=-mbjmIoAAAAJ&hl=en" }
-   - { platform: github,         user_url: "https://github.com/DavidGoedicke" }
-   - { platform: flickr,         user_url: "https://www.flickr.com/people/139018052@N06/" }
-   - { platform: youtube,        user_url: "https://www.youtube.com/@DavidGoedicke" }
-   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/david-goedicke-969446b6/" }
-  #  
-
-  #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
-  #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
-  #  
-  #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
-  #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-  #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
-  #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-  #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
-  #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
-  #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
-  #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
-  #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
-  #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-  #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
-  #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
